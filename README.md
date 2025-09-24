@@ -1,16 +1,43 @@
-## Hi there 👋
+# Heey👋, I’m Adham Ajjadiani
 
-<!--
-**Kuma-404/Kuma-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-stack Developer** specialized in **Laravel & ASP.NET**.  
+Passionate about building scalable web applications and APIs, with hands-on experience in both server-side and client-side development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-ajjadiani)
+
+---
+
+## 💻 Skills
+
+### 🖥️ Front-end Development
+- HTML, CSS, JavaScript  
+- ReactJS, Bootstrap, TailwindCSS  
+
+### ⚙️ Back-end Development
+- PHP, Laravel  
+- C#, ASP.NET Core  
+
+### 🗄️ Database & ORM
+- MySQL, PostgreSQL, SQL Server  
+- Eloquent ORM, Entity Framework  
+
+### 🎨 UI Tools
+- TailwindCSS, Bootstrap  
+
+### 🛠️ Others
+- Git, GitHub  
+- Postman, UML  
+- Agile/Scrum  
+
+---
+
+## 📊 GitHub Stats
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuma-404&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuma-404&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ From [Kuma-404](https://github.com/Kuma-404)
