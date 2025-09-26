@@ -1,7 +1,7 @@
 
 # Heey👋, I’m **Adham Ajjadiani**
 
-💻 **Full-stack Developer** specialized in **Laravel & ASP.NET**.  
+💻 **Full-stack Developer** specialized in **Laravel**.  
 Passionate about building scalable web applications and APIs, with hands-on experience in both server-side and client-side development.  
 
 ---
