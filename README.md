@@ -19,7 +19,7 @@ Passionate about building scalable web applications and APIs, with hands-on expe
 
 ### ⚙️ Back-end Development  
 - PHP, Laravel
-- 
+  
 ### 🗄️ Database & ORM  
 - MySQL, PostgreSQL, SQL Server  
 - Eloquent ORM, Entity Framework  
