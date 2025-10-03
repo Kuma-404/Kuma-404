@@ -18,9 +18,8 @@ Passionate about building scalable web applications and APIs, with hands-on expe
 - ReactJS, Bootstrap, TailwindCSS  
 
 ### ⚙️ Back-end Development  
-- PHP, Laravel  
-- C#, ASP.NET Core  
-
+- PHP, Laravel
+- 
 ### 🗄️ Database & ORM  
 - MySQL, PostgreSQL, SQL Server  
 - Eloquent ORM, Entity Framework  
