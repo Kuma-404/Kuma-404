@@ -15,7 +15,7 @@ Passionate about building scalable web applications and APIs, with hands-on expe
 
 ### 🖥️ Front-end Development  
 - HTML, CSS, JavaScript  
-- ReactJS, Bootstrap, TailwindCSS  
+- Vue.js, ReactJS, Bootstrap, TailwindCSS  
 
 ### ⚙️ Back-end Development  
 - PHP, Laravel
